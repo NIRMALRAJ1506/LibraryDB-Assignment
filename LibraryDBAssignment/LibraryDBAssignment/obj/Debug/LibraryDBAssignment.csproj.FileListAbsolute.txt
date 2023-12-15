@@ -1,0 +1,7 @@
+C:\Mphasis Db connectivity\Day 7\Exercise\LibraryDBAssignment\LibraryDBAssignment\bin\Debug\LibraryDBAssignment.exe.config
+C:\Mphasis Db connectivity\Day 7\Exercise\LibraryDBAssignment\LibraryDBAssignment\bin\Debug\LibraryDBAssignment.exe
+C:\Mphasis Db connectivity\Day 7\Exercise\LibraryDBAssignment\LibraryDBAssignment\bin\Debug\LibraryDBAssignment.pdb
+C:\Mphasis Db connectivity\Day 7\Exercise\LibraryDBAssignment\LibraryDBAssignment\obj\Debug\LibraryDBAssignment.csproj.AssemblyReference.cache
+C:\Mphasis Db connectivity\Day 7\Exercise\LibraryDBAssignment\LibraryDBAssignment\obj\Debug\LibraryDBAssignment.csproj.CoreCompileInputs.cache
+C:\Mphasis Db connectivity\Day 7\Exercise\LibraryDBAssignment\LibraryDBAssignment\obj\Debug\LibraryDBAssignment.exe
+C:\Mphasis Db connectivity\Day 7\Exercise\LibraryDBAssignment\LibraryDBAssignment\obj\Debug\LibraryDBAssignment.pdb
